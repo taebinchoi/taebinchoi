@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Cylinder&text=Design&nbsp;with&nbsp;Software)
 
+#### The goal is to build a unique UI/UX area by converging artistic creativity and software technology!
+
 ### 🐬
 Chung-Ang Univ, Library & Information Science / Art & Technology [2023~] <br/>
 University of Seoul, Applied Chem [2022]
