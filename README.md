@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Cylinder&text=Design&nbsp;with&nbsp;Software)
 
-#### The goal is to build a unique UI/UX area by converging artistic creativity and software technology.
+#### The goal is to build a unique UI/UX(related to HCI) area by converging artistic creativity and software technology.
 
 ### 🐬
 Chung-Ang Univ, Library & Information Science / Technology & Art [2023~] <br/>
