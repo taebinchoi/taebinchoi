@@ -30,4 +30,4 @@ University of Seoul, Applied Chem [2022]
  
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pluto7)](https://solved.ac/pluto7)
 
-# last updated at 2023.11
+##### last updated at 2023.11
