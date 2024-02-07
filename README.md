@@ -6,11 +6,11 @@
 Chung-Ang Univ, Library & Information Science / Technology & Art [2023~] <br/>
 University of Seoul, Applied Chem [2022]
 
-####  :clipboard: I've been using and studying
+####  :clipboard: Using and studying
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=white"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"><img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=black"><br/><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"><img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white"><img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
 
 
-####  📚 I've read recently
+####  📚 Read recently
 - Human-Computer Interaction 개론
 - 시각디자인 : 좋은 것에 담긴 감각과 생각
 - Ways of Seeing
