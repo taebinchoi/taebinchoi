@@ -11,6 +11,7 @@ University of Seoul, Applied Chem [2022]
 
 
 ####  📚 I've read recently
+- Human-Computer Interaction 개론
 - 시각디자인 : 좋은 것에 담긴 감각과 생각
 - Ways of Seeing
 - 디자인의 디자인
