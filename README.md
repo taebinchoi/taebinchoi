@@ -30,4 +30,4 @@ Library & Information Science / Techno-Art @ CAU [2023~] <br/>
  
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pluto7)](https://solved.ac/pluto7)
 
-##### last updated at: JUL. 2024
+##### last updated at: 2024. 07
