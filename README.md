@@ -17,7 +17,7 @@ Library & Information Science / Techno-Art @ CAU [2023~] <br/>
 - 한글 디자인 교과서
 - 광학적 미디어 : 1999년 베를린 강의 / 예술, 기술, 전쟁
 - 머신러닝 디자인 패턴
-- 텍스트와 타이포그래피
+- 도널드 노먼의 사용자 중심 디자인
 - 일상에 영감을, SWNA : 깨뜨리고 뒤흔들고 비틀어보기
 - 프로세스를 디자인하라
 - Data Driven UX
@@ -30,4 +30,4 @@ Library & Information Science / Techno-Art @ CAU [2023~] <br/>
  
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pluto7)](https://solved.ac/pluto7)
 
-##### last updated at:
+##### last updated at: JUL. 2024
