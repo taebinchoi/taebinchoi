@@ -3,7 +3,8 @@
 #### The goal is to build a unique UI/UX(related to HCI) area by converging artistic creativity and software technology.
 
 ### 🐬
-European Languages & Cultures @Sogang Univ.
+European Languages & Cultures 
+@Sogang Univ.
 [2026~] <br/>
 
 ####  :clipboard: Using and studying
