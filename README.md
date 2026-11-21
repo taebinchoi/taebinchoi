@@ -29,4 +29,4 @@ European Languages & Cultures
  
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pluto7)](https://solved.ac/pluto7)
 
-##### last updated at: 2026. 04
+##### last updated at: 2026. 10
